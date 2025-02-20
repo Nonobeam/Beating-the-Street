@@ -4,7 +4,7 @@ Mua ròng: Hiện tượng khối ngoại mua vào với số lượng lớn hơ
 
 Bán ròng: Hiện tượng khối ngoại bán tháo cổ phiếu với số lượng lớn.
 
-
+Test obsidian
 
 HoSE (HSX - Sở giao dịch chứng khoán thành phố Hồ Chí Minh):
 
